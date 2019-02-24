@@ -1,0 +1,7 @@
+MAKE BACKUPS FIRST!!!!!!!!!!!
+---------------------------------
+
+vehicles.meta
+---------------------------------
+mods/update/update.rpf/common/data/levels/gta
+

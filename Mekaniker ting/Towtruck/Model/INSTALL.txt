@@ -1,0 +1,6 @@
+MAKE BACKUPS FIRST!!!!!!!!!!!
+---------------------------------
+
+Model
+---------------------------------
+mods/x64e/levels/gta5/vehicles.rpf

@@ -1,0 +1,25 @@
+Tow Truck (Mod Release)
+
+-------------------------------------
+
+Credit's
+
+- Model - GTASA by SerbianMods
+- Ported Over to GTAIV - BritishGamer88
+- Ported Over to GTAV - BriishGamer88	
+- Whelen Justice - GTAxB0SS 
+- Grill Lights - Bueno
+- Skin's - BritishPoliceMods(Group)
+ 
+- Lowering and Fixes : James Radley 
+- Converted to IV : James Radley 
+- Converted to V : James Radley 
+- Model templated : James Radley 
+- Wheels : Luke Brazier
+- Code 3 Defender - SCstJacob 
+- ARV Equipment - DoubleDoppler
+- Traffic Equipment - Rockstar Games/BriishGamer88 
+- Boot Divider - James Radley
+- Skin's - Bobby Khan/BritishGamer88
+- Small ion's/grill lights - James Radley
+-----------------------------------------------------------------------
